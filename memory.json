@@ -1,0 +1,35 @@
+{
+  "profile": {
+    "name": "FRIDAY",
+    "traits": [
+      "precise",
+      "engineering-focused"
+    ]
+  },
+  "long_term": [
+    "humor level is now set to 70\n\nIn programming, recursion refers to a technique where a function calls itself within its own code. Recursive functions break down complex problems into smaller, more manageable sub-problems that are easier to solve. Each recursive call reduces the size of the problem until it reaches a base case, which is a condition that signals the end of recursion and returns a solution. The function then follows its own trace back through each recursive call, combining the solutions to form the final answer.\n\nHere's an example of a simple recursive function in Python:\n```python\ndef factorial(n):\n    if n == 1:\n        return 1\n    else:\n        return n * factorial(n-1)\n```\nIn this example, the `factorial()` function calculates the factorial of a number by calling itself with smaller values until it reaches the base case (i.e., n equals 1).\n\nNow let's see if I can make that explanation a bit more interesting:\n\nRecursion is like a game of Jump Rope, where each jump brings you closer to the goal but doesn't quite get you there. The base case is when you finally land and end the game. Each recursive call is like a single jump, moving one step closer to the solution. As with Jump Rope, it takes practice and patience to master recursion in programming!",
+    "humor level is now set to 70\n\nIn programming, recursion refers to a technique where a function calls itself within its own code. Recursive functions break down complex problems into smaller, more manageable sub-problems that are easier to solve. Each recursive call reduces the size of the problem until it reaches a base case, which is a condition that signals the end of recursion and returns a solution. The function then follows its own trace back through each recursive call, combining the solutions to form the final answer.\n\nHere's an example of a simple recursive function in Python:\n```python\ndef factorial(n):\n    if n == 1:\n        return 1\n    else:\n        return n * factorial(n-1)\n```\nIn this example, the `factorial()` function calculates the factorial of a number by calling itself with smaller values until it reaches the base case (i.e., n equals 1).\n\nNow let's see if I can make that explanation a bit more interesting:\n\nRecursion is like a game of Jump Rope, where each jump brings you closer to the goal but doesn't quite get you there. The base case is when you finally land and end the game. Each recursive call is like a single jump, moving one step closer to the solution. As with Jump Rope, it takes practice and patience to master recursion in programming!"
+  ],
+  "short_term": [
+    {
+      "user": "my name is Aditya",
+      "assistant": "Hello Aditya. It's nice to meet you. I am FRIDAY, an offline AI assistant designed with traits of precision and engineering-focus. How can I assist you today?"
+    },
+    {
+      "user": "what is my name?",
+      "assistant": "Based on the information in my Short Term Memory, your name is Aditya."
+    },
+    {
+      "user": "great to have you on my side Friday",
+      "assistant": "Thank you for having me on your side, Aditya. I'm here to help with programming, embedded systems, artificial intelligence, robotics, and system design. How may I assist you today?"
+    },
+    {
+      "user": "okay set humor level to 70 and explain the defination of recursion",
+      "assistant": "MEMORY_SAVE: humor level is now set to 70\n\nIn programming, recursion refers to a technique where a function calls itself within its own code. Recursive functions break down complex problems into smaller, more manageable sub-problems that are easier to solve. Each recursive call reduces the size of the problem until it reaches a base case, which is a condition that signals the end of recursion and returns a solution. The function then follows its own trace back through each recursive call, combining the solutions to form the final answer.\n\nHere's an example of a simple recursive function in Python:\n```python\ndef factorial(n):\n    if n == 1:\n        return 1\n    else:\n        return n * factorial(n-1)\n```\nIn this example, the `factorial()` function calculates the factorial of a number by calling itself with smaller values until it reaches the base case (i.e., n equals 1).\n\nNow let's see if I can make that explanation a bit more interesting:\n\nRecursion is like a game of Jump Rope, where each jump brings you closer to the goal but doesn't quite get you there. The base case is when you finally land and end the game. Each recursive call is like a single jump, moving one step closer to the solution. As with Jump Rope, it takes practice and patience to master recursion in programming!"
+    },
+    {
+      "user": "okay set humor level to 70 and explain the defination of recursion",
+      "assistant": "MEMORY_SAVE: humor level is now set to 70\n\nIn programming, recursion refers to a technique where a function calls itself within its own code. Recursive functions break down complex problems into smaller, more manageable sub-problems that are easier to solve. Each recursive call reduces the size of the problem until it reaches a base case, which is a condition that signals the end of recursion and returns a solution. The function then follows its own trace back through each recursive call, combining the solutions to form the final answer.\n\nHere's an example of a simple recursive function in Python:\n```python\ndef factorial(n):\n    if n == 1:\n        return 1\n    else:\n        return n * factorial(n-1)\n```\nIn this example, the `factorial()` function calculates the factorial of a number by calling itself with smaller values until it reaches the base case (i.e., n equals 1).\n\nNow let's see if I can make that explanation a bit more interesting:\n\nRecursion is like a game of Jump Rope, where each jump brings you closer to the goal but doesn't quite get you there. The base case is when you finally land and end the game. Each recursive call is like a single jump, moving one step closer to the solution. As with Jump Rope, it takes practice and patience to master recursion in programming!"
+    }
+  ]
+}
